@@ -1,1 +1,38 @@
-
+[
+    {
+        "tier": "1",
+        "title": "Tsukasa Gojouin",
+        "description": "Tsukasa Gojouin from Saikin Yatotta Maid ga Ayashii.",
+        "url": "https://cdn.shoob.gg/images/cards/1/a8a3461793be31e5dff0dfb3a441a6df8754a6132323160ef8ec263f7e0c5365.png"
+    },
+    {
+        "tier": "1",
+        "title": "Makaba",
+        "description": "Makaba from Fena: Pirate Princess.",
+        "url": "https://cdn.shoob.gg/images/cards/1/5a3dceaed2abb67cbc637565ee4b17be1c51935e22cfd4fee9bec63b5d2d9d5d.png"
+    },
+    {
+        "tier": "1",
+        "title": "Tilolilo Lilili Lou",
+        "description": "Tilolilo Lilili Lou from Fantasy Bishoujo Juniku Ojisan To.",
+        "url": "https://cdn.shoob.gg/images/cards/1/731cb7f7760651e2f411c82ff962c3dfea810039b396cb31e96e45ea87644882.png"
+    },
+    {
+        "tier": "1",
+        "title": "Yuzuki Ogata",
+        "description": "Yuzuki Ogata from Cuticle Detective Inaba.",
+        "url": "https://cdn.shoob.gg/images/cards/1/28149d2b05c1eb9d3834cab2d9bdc4d40babe3878c496d0d2da68596e2930606.png"
+    },
+    {
+        "tier": "1",
+        "title": "Schwartz von Liechtenstein Lohengramm",
+        "description": "Schwartz von Liechtenstein Lohengramm from Fantasy Bishoujo Juniku Ojisan To.",
+        "url": "https://cdn.shoob.gg/images/cards/1/759561c6c9114492202e6c038c077ccc93ce4c01fe221c52944ab5eaaa074ec8.png"
+    },
+    {
+        "tier": "1",
+        "title": "Noa",
+        "description": "Noa from Granblue Fantasy.",
+        "url": "https://cdn.shoob.gg/images/cards/1/915a32c91d0d065f3fcaf744d78b26c7dbfd76b3b0476af09230d9c65a266d09.png"
+    }
+]
