@@ -1,7 +1,22 @@
 [
   {
+    "tier": "5",
+    "title": "Iris Heart",
+    "url": "https://asapi.shoob.gg/site/api/cardr/61cfdfd086358d671f53175b"
+  },
+  {
+    "tier": "5",
+    "title": "Ougi Oshino",
+    "url": "https://asapi.shoob.gg/site/api/cardr/61cfdfd086358d671f531704"
+  },
+  {
     "tier": "S",
     "title": "Nami",
     "url": "https://cdn.shoob.gg/images/cards/S/1590511727366.gif"
+  },
+  {
+    "tier": "S",
+    "title": "Nezuko",
+    "url": "https://cdn.shoob.gg/images/cards/S/1606980054008.gif"
   }
 ]
