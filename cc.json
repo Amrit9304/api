@@ -1,12 +1,541 @@
 [
   {
+    "api": "https://shoob.gg/cards/info/5ecd486fadc24b50ebac3671",
+    "name": "Nami",
     "tier": "S",
-    "title": "Nami",
-    "url": "https://cdn.shoob.gg/images/cards/S/1590511727366.gif"
+    "source": "One Piece",
+    "image": "https://cdn.shoob.gg/images/cards/S/1590511727366.gif"
   },
   {
+    "api": "https://shoob.gg/cards/info/5ed4e396d916ea17b2666722",
+    "name": "Endeavor",
     "tier": "S",
-    "title": "Nezuko",
-    "url": "https://cdn.shoob.gg/images/cards/S/1606980054008.gif"
+    "source": "My Hero Academia",
+    "image": "https://cdn.shoob.gg/images/cards/S/1591010198395.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/5ef54544b098af1b5a654d85",
+    "name": "Esdeath",
+    "tier": "S",
+    "source": "Akame Ga Kill!",
+    "image": "https://cdn.shoob.gg/images/cards/S/1593419469.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/5efc97a8fdac161d638f0dee",
+    "name": "Zero Two",
+    "tier": "S",
+    "source": "Darling in the Franxx",
+    "image": "https://cdn.shoob.gg/images/cards/S/1593612200233.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/5f19b8ebc20057376d6ba28a",
+    "name": "Shoob",
+    "tier": "S",
+    "source": "Anime Soul",
+    "image": "https://cdn.shoob.gg/images/cards/S/1595521259251.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/5f22f8359ec92c47d91928db",
+    "name": "Senjougahara Hitagi",
+    "tier": "S",
+    "source": "Monogatari Series",
+    "image": "https://cdn.shoob.gg/images/cards/S/1596127285477.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/5f26bd0b09db8f2b75172d72",
+    "name": "Roronoa Zoro",
+    "tier": "S",
+    "source": "One Piece",
+    "image": "https://cdn.shoob.gg/images/cards/S/1596374283117.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/5f512f8cda850d527bf2d5d4",
+    "name": "Aqua",
+    "tier": "S",
+    "source": "KonoSuba",
+    "image": "https://cdn.shoob.gg/images/cards/S/1599156108718.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/5f70b7ee59bfd149e61d489b",
+    "name": "Madara Uchiha",
+    "tier": "S",
+    "source": "Naruto",
+    "image": "https://cdn.shoob.gg/images/cards/S/0a80d36efdaeb48a437538a2109b59662540211da7516b38e42b0c55b5c2cfea.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/5f7c8f6d361be22eb222e7ee",
+    "name": "Kanna Kamui",
+    "tier": "S",
+    "source": "Miss Kobayashi's Dragon Maid",
+    "image": "https://cdn.shoob.gg/images/cards/S/1602064112000.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/5fa01c57cf9ee71ec848e2ef",
+    "name": "Senko",
+    "tier": "S",
+    "source": "The Helpful Fox Senko-san",
+    "image": "https://cdn.shoob.gg/images/cards/S/1604328535728.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/5fc87da808be88702631d270",
+    "name": "Emilia",
+    "tier": "S",
+    "source": "Re:Zero",
+    "image": "https://cdn.shoob.gg/images/cards/S/1606974888922.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/5fc891d62d668b705652a7ec",
+    "name": "Nezuko",
+    "tier": "S",
+    "source": "Demon Slayer",
+    "image": "https://cdn.shoob.gg/images/cards/S/1606980054008.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/5feef9a32ebfaa36c4d22cd8",
+    "name": "Levi",
+    "tier": "S",
+    "source": "Attack on Titan",
+    "image": "https://cdn.shoob.gg/images/cards/S/1609496995748.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/6017c5221b316b60415a8c33",
+    "name": "Mai Sakurajima",
+    "tier": "S",
+    "source": "Aobuta",
+    "image": "https://cdn.shoob.gg/images/cards/S/692385514e7bbb53205074efcb027b2b.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/603cd538b55de400480822d2",
+    "name": "Ken Kaneki",
+    "tier": "S",
+    "source": "Tokyo Ghoul",
+    "image": "https://cdn.shoob.gg/images/cards/S/f3b4967d4211cfa88675e8c8152bef2c.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/603cdb6e3ac705da71dbc1c5",
+    "name": "Doudanuki Masakuni",
+    "tier": "S",
+    "source": "Touken Ranbu",
+    "image": "https://cdn.shoob.gg/images/cards/S/1e40a9d4641784ecf844699b5a65e995.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/60657e717b094e59c6c3c6fe",
+    "name": "Shinobi Sisters",
+    "tier": "S",
+    "source": "Naruto",
+    "image": "https://cdn.shoob.gg/images/cards/S/a017d2872cc7afa059bddf30c6aeebc4.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/606588d7a762c7911debddb2",
+    "name": "Saber",
+    "tier": "S",
+    "source": "Fate",
+    "image": "https://cdn.shoob.gg/images/cards/S/93d1b67cf187f54eb9361854fa0a9741.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/608d053794135c8d9a958fc3",
+    "name": "Gojo",
+    "tier": "S",
+    "source": "Jujutsu Kaisen",
+    "image": "https://cdn.shoob.gg/images/cards/S/f82bcaad60547c4955e7b46cf4462375.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/608d08ce94135c8d9a958fc4",
+    "name": "Kagura",
+    "tier": "S",
+    "source": "Gintama",
+    "image": "https://cdn.shoob.gg/images/cards/S/27f432ae7a8d107bd61f63b561b2979d.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/60b647173aa14454828224cf",
+    "name": "Chrollo x Hisoka",
+    "tier": "S",
+    "source": "Hunter x Hunter",
+    "image": "https://cdn.shoob.gg/images/cards/S/334ec11099e6756dff25f7fccb02466e77fff414ac39ca976f41e38db9df202c.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/60b65085808649e158ced771",
+    "name": "Quintuplets Catgirl",
+    "tier": "S",
+    "source": "The Quintessential Quintuplets",
+    "image": "https://cdn.shoob.gg/images/cards/S/62e4db705dd1f573d136027dd8f14b662e3497ac63b295fbd822d1f61ca7e5ea.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/60dd720e808649e158ced779",
+    "name": "Yuigahama Yui",
+    "tier": "S",
+    "source": "My Teen Romantic Comedy SNAFU",
+    "image": "https://cdn.shoob.gg/images/cards/S/6d3438a93e4a5a159717b9612c0d9b1351a37748f205e2b372fa288a823945d3.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/60dd747d808649e158ced77a",
+    "name": "Summer Girls",
+    "tier": "S",
+    "source": "Kanojo Okarishimasu",
+    "image": "https://cdn.shoob.gg/images/cards/S/cc0148ce071b637b514912aad2495ef0a36dea249498630e7363bbe347bef5fe.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/610663fe808649e158ced78e",
+    "name": "Guts",
+    "tier": "S",
+    "source": "Berserk",
+    "image": "https://cdn.shoob.gg/images/cards/S/dc978e4a9d5528d514e0249c6e5db17d0ac4cf0b833ed7df1c0d8b8961ccae94.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/6106efbb808649e158ced78f",
+    "name": "Yukino Yukinoshita",
+    "tier": "S",
+    "source": "My Teen Romantic Comedy SNAFU",
+    "image": "https://cdn.shoob.gg/images/cards/S/38d70ec3c417955ab0d430387c5ff14abe4ce9468eb8059a36fca835bb761b8e.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/610a7149a9d7016520b38b45",
+    "name": "Zhongli",
+    "tier": "S",
+    "source": "Genshin Impact",
+    "image": "https://cdn.shoob.gg/images/cards/S/e2e48d744c8f61ccc22af67640f87d40a3390b91a75980c6271c36fbb4269a93.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/610a7232a9d7016520b38b46",
+    "name": "Diluc",
+    "tier": "S",
+    "source": "Genshin Impact",
+    "image": "https://cdn.shoob.gg/images/cards/S/abe0c4cb29a6d4fb04d19e68fceb6fc1.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/610a72bfa9d7016520b38b47",
+    "name": "Hu Tao",
+    "tier": "S",
+    "source": "Genshin Impact",
+    "image": "https://cdn.shoob.gg/images/cards/S/6a7253e4b9bd090bb8d3221e01a5de8eacad8873e2f79f354744d50d37cbec49.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/610a7397a9d7016520b38b48",
+    "name": "Venti",
+    "tier": "S",
+    "source": "Genshin Impact",
+    "image": "https://cdn.shoob.gg/images/cards/S/f62a08c4cab59970397a0247293d746667a12bdecc39783eb09f92b646d6f425.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/610a7409a9d7016520b38b49",
+    "name": "Paimon",
+    "tier": "S",
+    "source": "Genshin Impact",
+    "image": "https://cdn.shoob.gg/images/cards/S/12ace60e064b65ff8aaa94eb004c507a829f32c803e43bc99e86b75baf8bdba5.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/612f2b53d246f599b46276db",
+    "name": "Rio Futaba",
+    "tier": "S",
+    "source": "Aobuta",
+    "image": "https://cdn.shoob.gg/images/cards/S/0af28577d8948151f1885d1f1481c483521ab8538f796496e4a804e40caa3181.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/612f3ce8d246f599b46276dd",
+    "name": "Draken x Mikey x Takemichi",
+    "tier": "S",
+    "source": "Tokyo Revengers",
+    "image": "https://cdn.shoob.gg/images/cards/S/6960e5a14bfb26069639b94280e20f2f666435dac942987cb5ec29d3144939e8.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/6156df30d246f599b46276eb",
+    "name": "Power x Makima",
+    "tier": "S",
+    "source": "Chainsaw Man",
+    "image": "https://cdn.shoob.gg/images/cards/S/356bb15557cdadff2e6dca3e5bde3d8d2a9fab9494fd8e5cfdfca9de22129f2b.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/6156e051d246f599b46276ec",
+    "name": "Hayase Nagatoro",
+    "tier": "S",
+    "source": "Don't Toy with Me, Miss Nagatoro",
+    "image": "https://cdn.shoob.gg/images/cards/S/5c4a1f818a3c86277b38f6b8c93db91a3bd876a3065dfb2447ffe9eff3caa65f.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/617fd8770ec214daefa48eb0",
+    "name": "Deku x Bakugo x Shoto",
+    "tier": "S",
+    "source": "My Hero Academia",
+    "image": "https://cdn.shoob.gg/images/cards/S/fda992f30aa853699b22b30a119dab47c06bccdae5d16d8cb57223c1d9ec9914.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/617fd9250ec214daefa48eb1",
+    "name": "Yuji Itadori",
+    "tier": "S",
+    "source": "Jujutsu Kaisen",
+    "image": "https://cdn.shoob.gg/images/cards/S/8b2f8ecdb3f13181854ce3b7c5b7979431ff83578028c81bb191bf1ae653e605.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/61a714860ec214daefa48eeb",
+    "name": "C.C x Lelouch",
+    "tier": "S",
+    "source": "Code Geass",
+    "image": "https://cdn.shoob.gg/images/cards/S/31fcd481e2b7182236ec2f0e52c6ceb035f5aaeb2f0f675dafeb24bdbb3b2df2.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/61a715760ec214daefa48eec",
+    "name": "Kurumi Tokisaki",
+    "tier": "S",
+    "source": "Date A Live",
+    "image": "https://cdn.shoob.gg/images/cards/S/17e82ec4b8763696f144f9df768740cb216190589b453a9cdeb7cf90a8467abd.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/61d46af7797f6dee6b1f9139",
+    "name": "Ereshkigal",
+    "tier": "S",
+    "source": "Fate",
+    "image": "https://cdn.shoob.gg/images/cards/S/41c5c21f7969e63a67143b4d06707d89e9b7496879e8ef9d1472f53eada0ecda.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/61d47081797f6dee6b1f913b",
+    "name": "The Hashira",
+    "tier": "S",
+    "source": "Demon Slayer",
+    "image": "https://cdn.shoob.gg/images/cards/S/59ddfcffc88981f1518bf82dad1f47a67b21bd0201264420291c9dadafddbea6.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/61f97389797f6dee6b1f9153",
+    "name": "Girls Spa Day",
+    "tier": "S",
+    "source": "Mushoku Tensei",
+    "image": "https://cdn.shoob.gg/images/cards/S/a7c05a62959f4f401d9552d992215ce26e70d74c5a66fe2c6ff5a344ca2d5462.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/61f97484797f6dee6b1f9154",
+    "name": "AoT the Final",
+    "tier": "S",
+    "source": "Attack on Titan",
+    "image": "https://cdn.shoob.gg/images/cards/S/27d55a0fa35fc488dfd03b5d7e44d38d533064d9ca32378466869d9904882636.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/621e4a6f797f6dee6b1f918b",
+    "name": "Ram & Rem",
+    "tier": "S",
+    "source": "Re:Zero",
+    "image": "https://cdn.shoob.gg/images/cards/S/8d71d12d0bdc6c5916aa92506379b27801bde585be2af15dfce82f982f05907b.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/621e4a73797f6dee6b1f918c",
+    "name": "Marin Kitagawa",
+    "tier": "S",
+    "source": "My Dress-Up Darling",
+    "image": "https://cdn.shoob.gg/images/cards/S/6b708fef7669eb7a2edd249643544fb00146aff0ebb813beb6491aa8a0f24e7a.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/62468efa797f6dee6b1f9190",
+    "name": "Vladilena Milizé",
+    "tier": "S",
+    "source": "Eighty Six",
+    "image": "https://cdn.shoob.gg/images/cards/S/25d5495f744ce946cbd98d5f781be54859785658ea96ecb7843be9bb2de5e6ef.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/624715bf797f6dee6b1f9191",
+    "name": "Sung Jin-Woo",
+    "tier": "S",
+    "source": "Solo Leveling",
+    "image": "https://cdn.shoob.gg/images/cards/S/5e48489adc397990640f77bb175bf218f530a9d4937e81cf030e4a0dcff00611.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/626e722dabc837247f67b41e",
+    "name": "Siesta",
+    "tier": "S",
+    "source": "The Detective Is Already Dead",
+    "image": "https://cdn.shoob.gg/images/cards/S/7953eba3832c8509c1e3ac45936963c3e6f18299e84cd774fc0e03e6c402350d.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/626e73eaabc837247f67b424",
+    "name": "Loid, Yor and Anya",
+    "tier": "S",
+    "source": "Spy x Family",
+    "image": "https://cdn.shoob.gg/images/cards/S/8f6ab1f51aee4ca762517dde5009971d47fe7f64efe62ed3be3e55f6842b095a.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/629724952fa8649be54c5aed",
+    "name": "Raphtalia",
+    "tier": "S",
+    "source": "The Rising of the Shield Hero",
+    "image": "https://cdn.shoob.gg/images/cards/S/6791cfa1f5e9481f11e1758f5f7167b3b2fd1b488059c713c65ba0ec4eca79c8.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/629725762fa8649be54c5af5",
+    "name": "Sights of Summer",
+    "tier": "S",
+    "source": "High School DxD",
+    "image": "https://cdn.shoob.gg/images/cards/S/cb4db9f9ca79d95005e005c7261b0bc9a32e6cf61650100ced0bebdbbb539190.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/62befcd3139fca734825d2d5",
+    "name": "Micchon Shikimori",
+    "tier": "S",
+    "source": "Kawaii dake ja Nai Shikimori-san",
+    "image": "https://cdn.shoob.gg/images/cards/S/80250a25fd617d9aa4e9d9a493a11f1f71fd083db4f1bee293029b4ff2ed8f4b.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/62befce1139fca734825d2d7",
+    "name": "Student Council",
+    "tier": "S",
+    "source": "Kaguya-sama: Love is War",
+    "image": "https://cdn.shoob.gg/images/cards/S/8976fd36c9ae4161c9fb12ecc2f61ab13ead4578bb4a38c4d803fe8d8b4e6a5f.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/62eb83a15c32c9597ab4bcd2",
+    "name": "Albedo",
+    "tier": "S",
+    "source": "Overlord",
+    "image": "https://cdn.shoob.gg/images/cards/S/9815ad68fff5fa81bc14ae8714428b908891fadb82162ba3516a9fff9f72ebcf.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/62eb866a5c32c9597ab4bcd9",
+    "name": "Kiyotaka x Suzune x Kei x Kikyō x Airi",
+    "tier": "S",
+    "source": "Classroom of the Elite",
+    "image": "https://cdn.shoob.gg/images/cards/S/b14c680615518b50adcc3f3a94c7caddbea8a5c921476b0e028dc78f27eaa50a.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/631065090a8065073b8fd4f5",
+    "name": "Mary Saotome",
+    "tier": "S",
+    "source": "Kakegurui",
+    "image": "https://cdn.shoob.gg/images/cards/S/b58f9951be5b32cc0604c8f81b4710b50b53baafe65df82ce5ce86c026c1777d.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/6310cc7a0a8065073b8fd4ff",
+    "name": "Nazuna Nanakusa",
+    "tier": "S",
+    "source": "Yofukashi no Uta",
+    "image": "https://cdn.shoob.gg/images/cards/S/e3210cd3ec2697f576415b5fcbb776c29af3a93ffb514d94e9c48aa6afbd08dd.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/633809addca6482edd376242",
+    "name": "Uta",
+    "tier": "S",
+    "source": "One Piece",
+    "image": "https://cdn.shoob.gg/images/cards/S/26c402671959c025ca91e6243609de0423af83c85bbd8662fdc76d9560cca244.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/63381635dca6482edd37625a",
+    "name": "Genshin Impact",
+    "tier": "S",
+    "source": "Genshin Impact",
+    "image": "https://cdn.shoob.gg/images/cards/S/864467cc51fa4c4478b5a77e946f8306771b606f47b12708f1a8a9bb12b797ed.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/63612a209b4c1fb5759721a5",
+    "name": "Shigeo x Reigen",
+    "tier": "S",
+    "source": "Mob Psycho 100",
+    "image": "https://cdn.shoob.gg/images/cards/S/bd0236501b854f1a2c8561b1418453e978c35b961df76f016f0b1180b004d7ec.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/6363d2cf42ebf6069938c7ef",
+    "name": "BLUE LOCK",
+    "tier": "S",
+    "source": "Blue Lock",
+    "image": "https://cdn.shoob.gg/images/cards/S/d18e6d2c73604fca02e574719a89f088b5809e0b09dcaf4081038e795f8b8528.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/638e596a7b04c29361472997",
+    "name": "Lucy",
+    "tier": "S",
+    "source": "Cyberpunk: Edgerunners",
+    "image": "https://cdn.shoob.gg/images/cards/S/c6fa446a14286dd087216bbbc0851891716612e9f31c70ce5b8baa4e6e943c1c.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/638e598c7b04c2936147299b",
+    "name": "Denji's dream life",
+    "tier": "S",
+    "source": "Chainsaw Man",
+    "image": "https://cdn.shoob.gg/images/cards/S/42b2d772bce61448e12bc1594eac45bb417d96d5d4bc2f1442e3c977b89d9774.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/63bd99d7524db076227d86d5",
+    "name": "Rei Ayanami",
+    "tier": "S",
+    "source": "Neon Genesis Evangelion",
+    "image": "https://cdn.shoob.gg/images/cards/S/7b22011e5d9555796e7b1f99ca83786268f08e75531cf234299467b5f43bc18b.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/63bd99fe524db076227d86da",
+    "name": "Shadow Garden",
+    "tier": "S",
+    "source": "The Eminence in Shadow",
+    "image": "https://cdn.shoob.gg/images/cards/S/2ae3a2372e2bef9e7596979a593a3332d40fcd408e463a076c3fa4db05ba375a.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/63e669da907ec8175566736c",
+    "name": "Hitori Gotou",
+    "tier": "S",
+    "source": "Bocchi the Rock!",
+    "image": "https://cdn.shoob.gg/images/cards/S/41a4e5c72d0e43bf056cd0ccf746c7ad5ec5a7a1cfc2665410aed7aef60f5f98.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/63e669e2907ec8175566736e",
+    "name": "Naoto and Nagatoro",
+    "tier": "S",
+    "source": "Don't Toy with Me, Miss Nagatoro",
+    "image": "https://cdn.shoob.gg/images/cards/S/789bab2fc838cac721fb0b655037659d624710e04952be506ba249fe8ed3d040.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/6404d9aed3073efa7d25ab7d",
+    "name": "Yor Forger",
+    "tier": "S",
+    "source": "Spy x Family",
+    "image": "https://cdn.shoob.gg/images/cards/S/342010fc506785dfff2db5f123658d6adc2d904d25896b37f7dc6ddf98bd69af.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/6404d9cbd3073efa7d25ab7f",
+    "name": "Anis x Euphi",
+    "tier": "S",
+    "source": "Tenten Kakumei",
+    "image": "https://cdn.shoob.gg/images/cards/S/a492830656b54b4b0cf5908f1008765c5808c978db82b6573e9563531842c184.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/6404d9d6d3073efa7d25ab81",
+    "name": "2B",
+    "tier": "S",
+    "source": "NieR: Automata",
+    "image": "https://cdn.shoob.gg/images/cards/S/4873fa24915ffb5894d2d1b12119eba5098a49d75bcffe5a2c79cced59d16666.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/6450b9fe0178938dc10c89ea",
+    "name": "Love & Mist Hashira vs Upper Moons",
+    "tier": "S",
+    "source": "Demon Slayer",
+    "image": "https://cdn.shoob.gg/images/cards/S/68530f7387e9d6803f928d8b212234fe8e85e95ebcbfa639ca65323046c187a6.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/6450bb370178938dc10c89ec",
+    "name": "Jigokuraku Odyssey",
+    "tier": "S",
+    "source": "Jigokuraku",
+    "image": "https://cdn.shoob.gg/images/cards/S/ce32e349119aeaff40c9ae818b9692d927e0772a1bf3ff5b396cd9de7d2fe22c.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/64785ecc661ea67184c92ae0",
+    "name": "Megumin",
+    "tier": "S",
+    "source": "KonoSuba",
+    "image": "https://cdn.shoob.gg/images/cards/S/32f55d982870e0217a863baac1deb7611aff05cca73ce4001793103f6a1f948e.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/64785ed9661ea67184c92ae2",
+    "name": "Oshi no Ko",
+    "tier": "S",
+    "source": "Oshi no Ko",
+    "image": "https://cdn.shoob.gg/images/cards/S/37f87533f18ee0b353160483b579dab1362886b6b6227a96b3eb3d97ba828bf0.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/64b121ab81fba8da8a3ebd87",
+    "name": "Osamu Dazai",
+    "tier": "S",
+    "source": "Bungou Stray Dogs",
+    "image": "https://cdn.shoob.gg/images/cards/S/5b008263fec6353e2394c3d945b82737123456a1811f907f55c07435745c80ba.gif"
+  },
+  {
+    "api": "https://shoob.gg/cards/info/64b121d481fba8da8a3ebd8a",
+    "name": "Koyomi's Encounters",
+    "tier": "S",
+    "source": "Monogatari Series",
+    "image": "https://cdn.shoob.gg/images/cards/S/7a918b377daef6e0e213f43aa5b318ea17216c7224095fa3c5bcf89572fdaacc.gif"
   }
 ]
